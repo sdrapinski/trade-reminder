@@ -1,2 +1,6 @@
 date,tested,session_type,win_ratio,profit_loss,best_trade,notes
 2026-04-17,True,Live,30%,"30,10,-20",fajne,sdf
+2026-04-18,True,Backtesting,50,0,jeszcze nic,
+2026-04-19,False,,,,,
+2026-04-22,False,,,,,
+2026-04-26,True,Backtesting,50%,300,,
